@@ -1,0 +1,12 @@
+.drum-pad {
+    background-color: var(--black);
+    color: white;
+    text-align: center;
+    width: 55px;
+    height: 55px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px 1px #06b400ab;
+    border: 1px;
+    border-color: var(--black);
+}

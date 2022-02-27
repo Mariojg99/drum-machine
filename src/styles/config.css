@@ -1,0 +1,25 @@
+/* Fredoka One font */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+:root {
+  --orange: #f87800;
+  --black: #222222;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Fredoka One', cursive;
+}
+
+body {
+  margin: 0;
+  background-image: url('https://www.teahub.io/photos/full/200-2008779_ecualizador-de-sonido-digital.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
